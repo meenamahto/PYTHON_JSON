@@ -1,0 +1,26 @@
+[
+  {
+    "name": "meena",
+    "passward": "meena@123",
+    "dob": "15/01/2003",
+    "hobby": "m",
+    "gemder": "f",
+    "description": "dfghjk"
+  },
+  {
+    "name": "mini",
+    "passward": "mini@123",
+    "dob": "15/01/2003",
+    "hobby": "hjk",
+    "gender": "f",
+    "description": "sdfghjk"
+  },
+  {
+    "name": "minu",
+    "passward": "minu@123",
+    "dob": "56789",
+    "hobby": "ghj",
+    "gender": "f",
+    "description": "sdfghjk"
+  }
+]
